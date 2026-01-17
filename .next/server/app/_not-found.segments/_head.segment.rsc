@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"CeHy-iPc80dY2GdPg0Hna","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Orchid Automation | AI-Powered Business Automation"}],["$","meta","1",{"name":"description","content":"Fractional Automation Partner for VCs and growth-stage startups—streamlining ops and supercharging GTM with AI-powered solutions."}],["$","meta","2",{"name":"keywords","content":"automation, AI, business automation, startups, fractional, operations"}]]}]}]}],null]}],"loading":null,"isPartial":false}

@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",suppressHydrationWarning:!0,children:(0,b.jsx)("body",{className:"bg-gradient-to-b from-slate-900 via-purple-900 to-slate-900",children:a})})}a.s(["default",()=>c,"metadata",0,{title:"Orchid Automation | AI-Powered Business Automation",description:"Fractional Automation Partner for VCs and growth-stage startups—streamlining ops and supercharging GTM with AI-powered solutions.",keywords:"automation, AI, business automation, startups, fractional, operations"}])}];
+
+//# sourceMappingURL=app_layout_tsx_271801d7._.js.map

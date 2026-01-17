@@ -1,0 +1,146 @@
+{
+  "id": "plan_27896e71",
+  "name": "Build Modern SaaS Website for Orchid Automation",
+  "createdAt": 1768585453164,
+  "updatedAt": 1768585883649,
+  "status": "done",
+  "phases": [
+    {
+      "id": "phase_d88b21",
+      "name": "Setup & Project Init",
+      "status": "done",
+      "tasks": [
+        {
+          "id": "task_b6000f",
+          "description": "Initialize Next.js 15 project with TypeScript and Tailwind CSS",
+          "status": "done"
+        },
+        {
+          "id": "task_281134",
+          "description": "Install required dependencies (components, icons, utilities)",
+          "status": "done"
+        },
+        {
+          "id": "task_f7f369",
+          "description": "Setup project structure with app router",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "id": "phase_9d7422",
+      "name": "Build Core Components",
+      "status": "done",
+      "tasks": [
+        {
+          "id": "task_6d7f38",
+          "description": "Create reusable UI components (buttons, cards, sections)",
+          "status": "done"
+        },
+        {
+          "id": "task_a5f897",
+          "description": "Build navigation header with logo and CTA",
+          "status": "done"
+        },
+        {
+          "id": "task_102580",
+          "description": "Create hero section with compelling messaging",
+          "status": "done"
+        },
+        {
+          "id": "task_7087e9",
+          "description": "Build features/solutions section with cards",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "id": "phase_185ae6",
+      "name": "Build Pages & Content",
+      "status": "done",
+      "tasks": [
+        {
+          "id": "task_eaf7d1",
+          "description": "Create homepage with founder story integration",
+          "status": "done"
+        },
+        {
+          "id": "task_27336a",
+          "description": "Build founder/team page with Brandon Guerrero details",
+          "status": "done"
+        },
+        {
+          "id": "task_a592a4",
+          "description": "Create services/solutions page",
+          "status": "done"
+        },
+        {
+          "id": "task_1f1407",
+          "description": "Build contact/CTA page",
+          "status": "done"
+        },
+        {
+          "id": "task_d8d70d",
+          "description": "Add footer with company info and social links",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "id": "phase_aec973",
+      "name": "Design & Styling",
+      "status": "done",
+      "tasks": [
+        {
+          "id": "task_d8fcf5",
+          "description": "Apply modern SaaS aesthetic (gradient backgrounds, smooth animations)",
+          "status": "done"
+        },
+        {
+          "id": "task_f534e1",
+          "description": "Implement responsive design across all pages",
+          "status": "done"
+        },
+        {
+          "id": "task_6aa0b7",
+          "description": "Add micro-interactions and transitions",
+          "status": "done"
+        },
+        {
+          "id": "task_863862",
+          "description": "Ensure accessibility standards",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "id": "phase_8b509a",
+      "name": "Verify & Deploy",
+      "status": "done",
+      "tasks": [
+        {
+          "id": "task_91e99f",
+          "description": "Test all pages and components",
+          "status": "done"
+        },
+        {
+          "id": "task_1e7760",
+          "description": "Verify responsive design on mobile/tablet",
+          "status": "done"
+        },
+        {
+          "id": "task_1eea7b",
+          "description": "Check TypeScript compilation",
+          "status": "done"
+        },
+        {
+          "id": "task_154345",
+          "description": "Build and test production version",
+          "status": "done"
+        }
+      ]
+    }
+  ],
+  "currentPhase": 4,
+  "completedAt": 1768585883649
+}

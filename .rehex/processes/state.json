@@ -1,0 +1,14 @@
+{
+  "processes": {
+    "prc_d95b858e": {
+      "id": "prc_d95b858e",
+      "cmd": "cd /Users/haseebqureshi/Code/rehex-brandon && npm run dev",
+      "cwd": "/Users/haseebqureshi/Code/rehex-brandon",
+      "pid": 29769,
+      "status": "running",
+      "exitCode": null,
+      "startTime": 1768585613027,
+      "endTime": null
+    }
+  }
+}
